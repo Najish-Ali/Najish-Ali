@@ -1,4 +1,4 @@
-Hi, I'm Nazish Ali 👋
+Hi, I'm Najish Ali 👋
 =====================
 
 Aspiring DevOps Engineer | Cloud Enthusiast | CI/CD Advocate
