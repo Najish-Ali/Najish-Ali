@@ -16,8 +16,7 @@ I'm passionate about automation, cloud infrastructure, and CI/CD pipelines. M
 -   Infrastructure as Code: Terraform, CloudFormation
 -   Languages: Python, Node.js, Bash, YAML
 -   Version Control: Git, GitHub
--   Monitoring: Prometheus, Grafana, ELK Stack
--   Automation: Ansible, Chef, Puppet
+-   Monitoring: Prometheus
 
 * * * * *
 
