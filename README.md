@@ -26,9 +26,9 @@ I specialize in:
 
 </td>
 <td width="45%" align="center">
-  <img src="https://media.giphy.com/media/UqZLh6mP3tyXtS5d3A/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250">
 </td>
-</tr>
+
 </table>
 
 ---
