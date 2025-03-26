@@ -81,7 +81,7 @@ I specialize in:
 🔹 **Canary deployment strategy**  
 
 </td>
-<td width="60%">
+<td width="70%">
 
 ### 🏗 **Infrastructure as Code Framework**  
 🔗 [GitHub Repo](https://github.com/N176/Two-Tier-Flaskapp)  
