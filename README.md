@@ -36,7 +36,7 @@ I specialize in:
 ## ⚙️ Tech Stack  
 <table>
 <tr>
-<td width="60%">
+<td width="59%">
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
@@ -49,7 +49,7 @@ I specialize in:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 </td>
-<td width="70%">
+<td width="60%">
 
 ### 🐳 **Containers & CI/CD**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
