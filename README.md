@@ -111,7 +111,7 @@ I specialize in:
 <td width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=Najish-Ali&show_icons=true&theme=radical">
 </td>
-<td width="50%">
+<td width="60%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najish-Ali&layout=compact&theme=nightowl">
 </td>
 </tr>
