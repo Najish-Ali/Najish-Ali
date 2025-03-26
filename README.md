@@ -34,7 +34,7 @@ I specialize in:
 ---
 
 ## ⚙️ Tech Stack  
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -68,7 +68,7 @@ I specialize in:
 ---
 
 ## 🚀 Featured Projects  
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
