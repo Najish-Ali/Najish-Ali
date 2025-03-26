@@ -70,7 +70,7 @@ I specialize in:
 ## 🚀 Featured Projects  
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 🌐 **Cloud-Native CI/CD Pipeline**  
 🔗 [GitHub Repo](https://github.com/N176/nodejs-cicd-pipeline)  
@@ -81,7 +81,7 @@ I specialize in:
 🔹 **Canary deployment strategy**  
 
 </td>
-<td width="60%">
+<td width="50%">
 
 ### 🏗 **Infrastructure as Code Framework**  
 🔗 [GitHub Repo](https://github.com/N176/Two-Tier-Flaskapp)  
