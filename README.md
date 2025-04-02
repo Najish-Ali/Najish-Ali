@@ -3,7 +3,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="600">
 </p>
 
-<h1 align="center">👋 Hey, I'm Najish Ali</h1>
+<h1 align="center">👋 Hey, I'm Sayyed Najish Ali</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud Architect | Automation Specialist</h3>
 
 ---
