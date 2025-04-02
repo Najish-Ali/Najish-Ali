@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 HEY, I'M SAYYED NAJISH ALI</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Architect | Automation Specialist</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Architect | Automation </h3>
 
 ---
 
