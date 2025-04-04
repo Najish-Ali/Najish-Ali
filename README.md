@@ -123,7 +123,7 @@ I specialize in:
 I'm always open to:  
 💡 **Exciting DevOps Challenges**  
 💻 **Open-source Contributions**  
-☁️ **Cloud Architecture Discussions**  
+☁️ **Cloud Architecture Discussion**  
 
 📫 Reach me at:  
 <p align="center">
