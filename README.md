@@ -1,4 +1,3 @@
-
 <!-- Banner GIF -->
 
 <p align="center">
@@ -126,7 +125,6 @@ I'm always open to:
 💡 **Exciting DevOps Challenges**  
 💻 **Open-source Contributions**  
 ☁️ **Cloud Architecture Discussion**  
-
 
 📫 Reach me at:  
 <p align="center">
